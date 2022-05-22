@@ -1,4 +1,4 @@
-## Hi! I am Douglas , i'm learning about software deveopment.
+## Hi! I am Douglas, i'm learning about software development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgzin/)
 [![GitHub](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](github.com/dgzin)
