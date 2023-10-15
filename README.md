@@ -1,11 +1,10 @@
 # Olá! Eu sou o Douglas :wave:
 
-## Sobre mim
-<i> Sou um estudante de **Análise e Desenvolvimento de Sistemas** e atualmente sou **estagiário** na [Prefeitura Municipal de Itapetininga](https://www.itapetininga.sp.gov.br). Algumas das minhas responsabilidades são:</i>
-
-- Acessar funções de pesquisas tecnológicas;
-- Acompanhamento da gestão de ferramentas e fluxo de processos; 
-- Acompanhamento das instalações de redes, micros e comunicação de dados. 
+<center>
+  ## Sobre mim
+</center>
+<i> Sou um estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC (Faculdade de Tecnologia do Estado de São Paulo**)</i>
+ 
 </div>
 
 ## Github Stats
