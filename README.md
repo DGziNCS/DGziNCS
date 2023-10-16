@@ -8,7 +8,7 @@
 <hr>
 
 **Estatísticas do GitHub**
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgzincs&theme=shadow_red&bg_color=000&card_width=1024&&show_icons=false&&hide=prs&locale=pt-br&text_color=ffffff&icon_color=fff&border_radius=0&rank_icon=github&ring_color=005eff&title_color=005eff&custom_title=Douglas Oliveira"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgzincs&theme=shadow_red&bg_color=000&card_width=1024&show_icons=false&hide=prs&locale=pt-br&text_color=ffffff&icon_color=fff&border_radius=0&rank_icon=github&ring_color=005eff&title_color=005eff&custom_title=Douglas Oliveira"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgzincs&layout=pie&langs_count=8&card_width=1024&theme=shadow_red&bg_color=000&locale=pt-br&border_radius=0&text_color=ffffff&title_color=005eff" />
 
